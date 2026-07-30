@@ -1,0 +1,6 @@
+{
+  "name": "Ersenbox - SPIELE LERNEN 26",
+  "description": "Vorschul-Lernspiele mit Alphabet, Letter Tracing, Ausmalen, Zahlen, Angelspiel, Formen und Spielzeug-Regal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
